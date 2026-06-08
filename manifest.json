@@ -1,0 +1,8 @@
+{
+    "name": "TokenManager",
+    "version": "1.0.0",
+    "description": "Manage alt accounts and copy tokens",
+    "author": "wumuw",
+    "license": "MIT",
+    "main": "index.js"
+}
